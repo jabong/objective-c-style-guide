@@ -527,7 +527,7 @@ A three letter prefix (e.g. `RI`) should always be used for class names and cons
 **For example:**
 
 ```objc
-static const NSTimeInterval NYTArticleViewControllerNavigationFadeAnimationDuration = 0.3;
+static const NSTimeInterval RIArticleViewControllerNavigationFadeAnimationDuration = 0.3;
 ```
 
 **Not:**
