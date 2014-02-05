@@ -2,6 +2,8 @@
 
 This style guide outlines the coding conventions of the iOS development at Rocket Internet. We welcome your feedback in [issues](https://github.com/rocketinternet/objetive-c-style-guide/issues) and [pull requests](https://github.com/rocketinternet/objetive-c-style-guide/pulls). Also, [we're hiring](http://www.rocket-internet.de/jobs).
 
+**Please also see our emerging [Guidelines](/Guidelines/README.md) section for Rocket-style implementations and best practices.**
+
 When in doubt about a particular implementation, either you state it public in an issue, or fall back to the recommendations in Apple's [Coding Guidelines for Cocoa](https://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html).
 
 Thanks to all of [our contributors](https://github.com/rocketinternet/objective-c-style-guide/contributors).
