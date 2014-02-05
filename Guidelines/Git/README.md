@@ -9,4 +9,4 @@ In Git a dedicated file [`.gitignore`](http://git-scm.com/docs/gitignore) mainta
 Github provides a [public repository](https://github.com/github/gitignore) of templates for `.gitignore` files. Among others there is a [dedicated template for Objective-C](https://github.com/github/gitignore/blob/master/Objective-C.gitignore) combines an extensive set of file name patterns already in the preferred format and 
 suitable for most Objective-C projects.
 
-Also do we have another custom template called [`gitignore`](Guidelines/Git/gitignore) in this directory of the repository that this guideline recommends recommends to use as a basis to produce a `.gitignore` file for either code project managed with Git.
+Also do we have another custom template called [`gitignore`](gitignore) in this directory of the repository that this guideline recommends recommends to use as a basis to produce a `.gitignore` file for either code project managed with Git.
