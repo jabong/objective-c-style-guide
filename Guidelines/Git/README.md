@@ -6,7 +6,7 @@ Many development tools, like IDEs, produce temporary or local meta data files du
 Most of these files should not be shared among various development environments and therefor kept  out of the central source code management. 
 In Git a dedicated file [`.gitignore`](http://git-scm.com/docs/gitignore) maintains syntactical patterns matching on the names of those files that should be excluded of the code versioning.
 
-Github provides a [public repository](https://github.com/github/gitignore) of templates for `.gitignore` files [here](https://github.com/github/gitignore/blob/master/Objective-C.gitignore). The template for Objective-C combines an extensive set of file name patterns already in the preferred format and 
+Github provides a [public repository](https://github.com/github/gitignore) of templates for `.gitignore` files. Among others there is a [dedicated template for Objective-C](https://github.com/github/gitignore/blob/master/Objective-C.gitignore) combines an extensive set of file name patterns already in the preferred format and 
 suitable for most Objective-C projects.
 
 This guideline recommends to use [this template](https://github.com/github/gitignore/blob/master/Objective-C.gitignore) file as a basis to produce a `.gitignore` file for either code project managed with Git.
